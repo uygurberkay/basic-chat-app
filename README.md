@@ -7,3 +7,6 @@ To start project:
 1.  npm install
 2.  npm run dev 
 </strong>
+
+Then you can reach app with : 
+<strong> http://localhost:3000/   link <strong>
